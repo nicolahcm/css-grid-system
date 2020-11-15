@@ -1,0 +1,13 @@
+img {
+    max-width: 400px;
+    max-height: 400px;
+
+    min-height:300px;
+    min-width:300px;
+}
+
+.articlesContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
